@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chadj\\Documents\\EventsSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A98C9C-6F2E-4768-8BB9-30D09230F02E}|EventsSolution\\EventsSolution.csproj|c:\\users\\chadj\\documents\\eventssolution\\eventssolution\\temperaturemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A98C9C-6F2E-4768-8BB9-30D09230F02E}|EventsSolution\\EventsSolution.csproj|solutionrelative:eventssolution\\temperaturemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A98C9C-6F2E-4768-8BB9-30D09230F02E}|EventsSolution\\EventsSolution.csproj|c:\\users\\chadj\\documents\\eventssolution\\eventssolution\\temperatureeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A98C9C-6F2E-4768-8BB9-30D09230F02E}|EventsSolution\\EventsSolution.csproj|solutionrelative:eventssolution\\temperatureeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A98C9C-6F2E-4768-8BB9-30D09230F02E}|EventsSolution\\EventsSolution.csproj|c:\\users\\chadj\\documents\\eventssolution\\eventssolution\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A98C9C-6F2E-4768-8BB9-30D09230F02E}|EventsSolution\\EventsSolution.csproj|solutionrelative:eventssolution\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemperatureMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\chadj\\Documents\\EventsSolution\\EventsSolution\\TemperatureMonitor.cs",
+              "RelativeDocumentMoniker": "EventsSolution\\TemperatureMonitor.cs",
+              "ToolTip": "C:\\Users\\chadj\\Documents\\EventsSolution\\EventsSolution\\TemperatureMonitor.cs",
+              "RelativeToolTip": "EventsSolution\\TemperatureMonitor.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:08:35.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemperatureEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\chadj\\Documents\\EventsSolution\\EventsSolution\\TemperatureEventArgs.cs",
+              "RelativeDocumentMoniker": "EventsSolution\\TemperatureEventArgs.cs",
+              "ToolTip": "C:\\Users\\chadj\\Documents\\EventsSolution\\EventsSolution\\TemperatureEventArgs.cs",
+              "RelativeToolTip": "EventsSolution\\TemperatureEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:05:06.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\chadj\\Documents\\EventsSolution\\EventsSolution\\Class1.cs",
+              "RelativeDocumentMoniker": "EventsSolution\\Class1.cs",
+              "ToolTip": "C:\\Users\\chadj\\Documents\\EventsSolution\\EventsSolution\\Class1.cs",
+              "RelativeToolTip": "EventsSolution\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:04:14.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
